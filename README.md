@@ -7,4 +7,5 @@ source .venv/bin/activate
 
 ### 実行する
 python3 src/chat1.py
+
 python3 src/chat2.py

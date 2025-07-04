@@ -10,8 +10,8 @@ source .venv/bin/activate
 
 python3 src/chat1.py
 
-
-
 ## chat2.py
+
+プロンプトを入力し、返答してもらう。
 
 python3 src/chat2.py

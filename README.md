@@ -12,6 +12,6 @@ python3 src/chat1.py
 
 ## chat2.py
 
-プロンプトを入力し、返答してもらう。
+プロンプトを入力し、返答してもらう。終了するには 'exit' と入力。
 
 python3 src/chat2.py
